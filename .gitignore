@@ -73,3 +73,26 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# UE5 Cash Files
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Build/
+
+# Visual Studio 
+**/.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# OS 
+.DS_Store
+Thumbs.db
+
+# Create Asset
+*_BuiltData.uasset
+SourceArt/**/*.png
+SourceArt/**/*.tga
