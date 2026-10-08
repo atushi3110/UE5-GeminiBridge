@@ -96,3 +96,7 @@ Thumbs.db
 *_BuiltData.uasset
 SourceArt/**/*.png
 SourceArt/**/*.tga
+
+# UE5 External Generated Files
+**/Content/__ExternalActors__/
+**/Content/__ExternalObjects__/
